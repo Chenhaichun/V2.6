@@ -65,6 +65,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .html_button {
   text-align:center;
 }
@@ -73,4 +77,9 @@
   text-align:left;
 }
 .box_2 {
+}
+.table_cell {
+}
+.link_button {
+  color:#169BD5;
 }
